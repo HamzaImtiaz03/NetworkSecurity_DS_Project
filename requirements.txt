@@ -5,6 +5,9 @@ seaborn
 matplotlib
 scikit-learn
 pymongo
+certifi
 ipykernel
 flask
 dill
+
+#-e .
