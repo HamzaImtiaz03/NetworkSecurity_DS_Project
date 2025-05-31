@@ -5,6 +5,7 @@ seaborn
 matplotlib
 scikit-learn
 pymongo
+pymongo[srv]==3.6
 certifi
 ipykernel
 flask
